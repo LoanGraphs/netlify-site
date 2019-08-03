@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Loan Graphs
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Show the loan to your clients-- Don't Tell them
+subheading: Local Loan Officers
 mainpitch:
-  title: Why Kaldi
+  title: Why LoanGraphs?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
